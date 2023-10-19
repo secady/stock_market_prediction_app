@@ -3,7 +3,7 @@ This is a demo of an analytics app created by Selvie. The app is an AI bot that 
 Note:
 - For Demo purpose, this app only contains IBEX 35 weekly data
 - By default, the week starts on Monday. If we are in the week of 2023.10.09, then the bot will do the forecast for the next 8 weeks starting from the week of 2023.10.16. Once the week of 2023.10.16 has come, the bot will check the accuracy of the last week forecast.
-- The accuracy is checked based on the range of "Low" and "High" prices within the corresponding week. If the forecasted Close Price falls within the low-high range, then we consider it accurate because any pruchase/sales order placed at the forecasted Close Price will be most likely executed.
+- The accuracy is checked based on the range of "Low" and "High" prices within the corresponding week. If the forecasted Close Price falls within the low-high range, then we consider it accurate because any purchase/sales order placed at the forecasted Close Price will be most likely executed.
 - Possible future development:
     - Add more time intervals (minutely/hourly/daily/monthly)
     - Add fundamental analysis (based on Financial report indicators)
