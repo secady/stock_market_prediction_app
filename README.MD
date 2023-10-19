@@ -1,4 +1,4 @@
-This is a demo of an analytics app created by Selvie. The app is an AI bot that helps us from collecting the stock market data, analysing it, predicting stocks prices (Close Price), generating a recommendation and checking the forecast accuracy in real-time basis. The app has been deployed to AWS. To watch the demo, please check out this Youtube link: https://www.youtube.com/watch?v=WiNauEPT55I.
+This is a demo of an analytics app created by Selvie. The app is an AI bot that helps us from collecting the stock market data, analysing it, predicting stocks prices (Close Price), generating a recommendation and checking the forecast accuracy on a real-time basis. The app has been deployed to AWS. To watch the demo, please check out this Youtube link: https://www.youtube.com/watch?v=WiNauEPT55I.
 
 Note:
 - For Demo purpose, this app only contains IBEX 35 weekly data
