@@ -7,5 +7,6 @@ Note:
 - Possible future development:
     - Add more time intervals (minutely/hourly/daily/monthly)
     - Add fundamental analysis (based on Financial report indicators)
+    - Models optimization to increase the accuracy
 
 <br>Disclaimer: ON!!! The creator doesn't have any intention to encourage people to invest in stock market or to follow the recommendation. This app was made for educational purpose.
