@@ -1,4 +1,4 @@
-This is a demo of an analytics app created by Selvie. The app is an AI bot that helps us collect the stock market data, analyze it, predict stocks prices (Close Price), generate a recommendation and check the forecast accuracy on a real-time basis. The app has been deployed to AWS. To watch the demo, please check out this Youtube link: https://www.youtube.com/watch?v=WiNauEPT55I.
+This is a demo of an analytics app created by Selvie. The app is an AI bot that helps us collect the stock market data, analyze it, predict stocks prices (Close Price), generate a recommendation and check the forecast accuracy on a real-time basis. To watch the demo, please check out this Youtube link: https://www.youtube.com/watch?v=WiNauEPT55I.
 
 Note:
 - For Demo purpose, this app only contains IBEX 35 weekly data
@@ -8,5 +8,12 @@ Note:
     - Add more time intervals (minutely/hourly/daily/monthly)
     - Add fundamental analysis (based on Financial report indicators)
     - Models optimization to increase the accuracy
+
+Here are the tools used in building this web app:
+- Python to create backend and frontend parts of the app
+- AWS RDS's MySQL for database
+- AWS EC2 for cloud deployment
+
+The app is currently deployed on AWS. Please kindly contact the creator if you would like to see the live demo.
 
 <br>Disclaimer: ON!!! The creator doesn't have any intention to encourage people to invest in stock market or to follow the recommendation. This app was made for educational purpose.
