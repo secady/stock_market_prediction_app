@@ -10,7 +10,7 @@ Note:
     - Models optimization to increase the accuracy
 
 Here are the tools used in building this web app:
-- Python to create backend and frontend parts of the app
+- Python to create backend and frontend (interactive dashboard) parts of the app
 - AWS RDS's MySQL for database
 - AWS EC2 for cloud deployment
 
