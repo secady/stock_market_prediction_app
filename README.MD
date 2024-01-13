@@ -10,9 +10,9 @@ Note:
     - Models optimization to increase the accuracy
 
 Here are the tools used in building this web app:
-- Python to create backend and frontend (interactive dashboard) parts of the app
-- AWS RDS's MySQL for database
-- AWS EC2 for cloud deployment
+- Python programming language to create backend and frontend (interactive dashboard) parts of the app
+- AWS RDS (Amazon Relational Database Service) - MySQL database
+- AWS EC2 (Amazon Elastic Compute Cloud) for cloud deployment
 
 The app is currently deployed on AWS. Please kindly contact the creator if you would like to see the live demo.
 
