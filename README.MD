@@ -7,9 +7,9 @@ App Functionality (Minimum Viable Product):
 - The accuracy is checked based on the range of "Low" and "High" prices within the corresponding week. If the forecasted Close Price falls within the low-high range, then we consider it accurate because any purchase/sales order placed at the forecasted Close Price will be most likely executed.
 
 Possible future development:
-    - Add more time intervals (minutely/hourly/daily/monthly)
-    - Add fundamental analysis (based on Financial report indicators)
-    - Models optimization to increase the accuracy
+- Add more time intervals (minutely/hourly/daily/monthly)
+- Add fundamental analysis (based on Financial report indicators)
+- Models optimization to increase the accuracy
 
 Here are the tools used in building this web app:
 - Python programming language to create backend and frontend (interactive dashboard) parts of the app
